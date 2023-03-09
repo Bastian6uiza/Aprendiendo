@@ -1,0 +1,21 @@
+https://github.com/Bastian6uiza
+## Soy Sebastian Morales
+## Estudiante de Desarrollo Web y **ESTE** es mi primer _Test_ de **MarkDown**
+#
+**Hasta ahora he aprendido algunas cosas sobre:**
+
+|-----------------------------------------------------------------------------|
+| HTML         | Maquetación y manipulación del Documento de HTML             |
+|-----------------------------------------------------------------------------|
+| JavaScrpit   | Lógica, algoritmos e interacción con el usuario              |
+|-----------------------------------------------------------------------------|
+| CSS          | Diseño Front-End y Visualizar lo que hago desde el navegador |
+|-----------------------------------------------------------------------------|
+| TERMINAL     | Interfaz gráfica de linea de comandos del sistema operativo  |
+|-----------------------------------------------------------------------------|
+| HÁBITOS      | También llamadas Buenas Prácticas dentro de la programación  |
+|-----------------------------------------------------------------------------|
+| GIT o GITHUB | Repositorio remoto de gestion de versiones                   |
+|-----------------------------------------------------------------------------|
+
+**_Y Tengo Muchas Ganas De Aprender Más._**
